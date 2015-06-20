@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>CFA Exam Level 1</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2015-06-20T18:20:20-04:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Victor Sowers</name>
+   <email>hackthetest@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
