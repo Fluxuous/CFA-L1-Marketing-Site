@@ -4,7 +4,7 @@
  <title>CFA Exam Level 1</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-07-15T15:09:24-04:00</updated>
+ <updated>2015-07-15T15:11:21-04:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Victor Sowers</name>
@@ -13,99 +13,11 @@
 
  
  <entry>
-   <title>Behavior Finance Cram Guide - Cognitive and Emotional Biases</title>
+   <title>Coming soon.</title>
    <link href="http://username.github.io/blog/read-me"/>
    <updated>2015-07-13T00:00:00-04:00</updated>
    <id>http://username.github.io/blog/read-me</id>
-   <content type="html">&lt;h1 id=&quot;read-me&quot;&gt;Read me&lt;/h1&gt;
-
-&lt;!-- To embed an image, use the following src helper
-&lt;img width=&quot;50%&quot; height=&quot;2&quot; src=&quot;/static/img/cognitive-biases.png&quot;/&gt; --&gt;
-
-&lt;p&gt;Markdown allows you to be lazy and only put the &amp;gt; before the first line of a hard-wrapped paragraph:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
-Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by adding additional levels of &amp;gt;:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is the first level of quoting.&lt;/p&gt;
-
-  &lt;blockquote&gt;
-    &lt;p&gt;This is nested blockquote.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;Back to the first level.
-Blockquotes can contain other Markdown elements, including headers, lists, and code blocks:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;h2 id=&quot;this-is-a-header&quot;&gt;This is a header.&lt;/h2&gt;
-
-  &lt;ol&gt;
-    &lt;li&gt;This is the first list item.&lt;/li&gt;
-    &lt;li&gt;This is the second list item.&lt;/li&gt;
-  &lt;/ol&gt;
-
-  &lt;p&gt;Here’s some example code:&lt;/p&gt;
-
-  &lt;pre&gt;&lt;code&gt;return shell_exec(&quot;echo $input | $markdown_script&quot;); Any decent text editor should make email-style quoting easy. For example, with BBEdit, you can make a selection and choose Increase Quote Level from the Text menu.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;LISTS&lt;/p&gt;
-
-&lt;p&gt;Markdown supports ordered (numbered) and unordered (bulleted) lists.&lt;/p&gt;
-
-&lt;p&gt;Unordered lists use asterisks, pluses, and hyphens — interchangably — as list markers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Red&lt;/li&gt;
-  &lt;li&gt;Green&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Blue
-is equivalent to:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Red&lt;/li&gt;
-  &lt;li&gt;Green&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Blue
-and:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Red&lt;/li&gt;
-  &lt;li&gt;Green&lt;/li&gt;
-  &lt;li&gt;Blue
-Ordered lists use numbers followed by periods:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Bird&lt;/li&gt;
-  &lt;li&gt;McHale&lt;/li&gt;
-  &lt;li&gt;Parish
-It’s important to note that the actual numbers you use to mark the list have no effect on the HTML output Markdown produces. The HTML Markdown produces from the above list is:&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Bird&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;Parish&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you instead wrote the list in Markdown like this:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Bird&lt;/li&gt;
-  &lt;li&gt;McHale&lt;/li&gt;
-  &lt;li&gt;Parish&lt;/li&gt;
-&lt;/ol&gt;
-
+   <content type="html">&lt;p&gt;Coming Soon.&lt;/p&gt;
 </content>
  </entry>
  
