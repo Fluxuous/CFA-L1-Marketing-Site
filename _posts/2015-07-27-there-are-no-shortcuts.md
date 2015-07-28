@@ -31,8 +31,8 @@ Still interested?
 
 Good. 
 
-The CFA curriculum will teach you something new. Its community is powerful, its designation recognized throughout the world.   
-  
+The CFA curriculum will teach you something new. Its community is powerful, its designation recognized throughout the world.
+
 ### We will help you walk the path
 We know the pain of passing these tests. We’ve been where you are.  We are here to help. 
 
