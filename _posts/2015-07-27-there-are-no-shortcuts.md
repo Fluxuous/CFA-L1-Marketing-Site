@@ -2,7 +2,7 @@
 layout: post
 category : tips
 title : "There are no shortcuts"
-excerpt : <p>The hardest part of the CFA Level 1 process may just be getting started. It’s also the most important part.  </p>
+excerpt : <p>The hardest part of the CFA Level 1 process may just be getting started. It’s also the most important part. Here's some tips to get moving. </p>
 --- 
 
 # There are no shortcuts to the CFA Exam
