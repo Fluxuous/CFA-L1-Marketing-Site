@@ -22,7 +22,7 @@ We’re all about quality and efficiency here ([just ask the 500+ level 3 Candid
 
 Still, efficiency has limits. 
 
-## Don't just start, Start mentally prepared
+## Don't just start, start mentally prepared
 Passing all three Level 3 exams is a daunting challenge, and for your own sake you should be mentally prepared for that grind before you start Level 1. There are no prizes for being stuck as a CFA Level II Candidate.  You will make sacrifices with your time, there will be *opportunity costs*.
 
 ***It will take years.***
@@ -31,8 +31,8 @@ Still interested?
 
 Good. 
 
-The CFA curriculum will teach you something new. Its community is powerful, its designation recognized throughout the world. 
-
+The CFA curriculum will teach you something new. Its community is powerful, its designation recognized throughout the world.   
+  
 ### We will help you walk the path
 We know the pain of passing these tests. We’ve been where you are.  We are here to help. 
 
