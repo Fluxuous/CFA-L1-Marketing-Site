@@ -1052,14 +1052,14 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 
 .blog-4 h2 {
-  font-size: 23px /* 29px */;
-  padding: 40px;
+  font-size: 30px;
+  padding: 40px 0px;
   text-align: center;
   color: black;
   
 }
 .blog-4 h3 {
-  font-size: 35px;
+  font-size: 25px;
   margin: 0 0 35px;
   color: black;
 }
@@ -1419,6 +1419,11 @@ color: white; {
 }
 
 .blog-content h2 {
+  padding: 40px;
+  text-align: center;
+}
+
+.blog-content h3 {
   padding: 40px;
   text-align: center;
 }
