@@ -2,8 +2,9 @@
 layout: post
 category : tips
 title : "Getting Started"
-excerpt : "It's hard to start studying for Level 1. And it's hard to keep studying. Here's what it takes to start and build your momentum."
+excerpt : "It's hard to start studying for the CFA Level 1 exam. And it's hard to keep studying. Here's what it takes to start and build your momentum."
 --- 
+# The Hardest part of Level 1 is getting started
 One of the hardest things to do in the entire CFA process is to start studying for level one. There’s a lot of material to cover and life is busy. Where do you find the time? 
 
 So, despite our best intentions, it often happens that we find days slipping by without covering any material. *I’ll just read a little extra tomorrow you say to yourself.* And it is true, a few days here and there is OK (in fact, we've long advocated planned zero days). 
@@ -52,7 +53,7 @@ That entire process takes time and effort. We like to think that we can help you
 
 #### One way to get started is with our free newsletter
 
-We're here to help. That's why we have a free CFA newsletter. That's why if you sign up for it you'll get access to hundreds of pages of our study material for free and exclusive access to our app as soon as we launch it. We're here to answer your questions and point you in the right direction using everything we've learned passing the test ourselves and helping countless others to do so ever since.
+We're here to help. That's why we have a free CFA newsletter. That's why if you [sign up](http://cfaexamlevel1.com/newsletter/) for it you'll get access to hundreds of pages of our study material for free and exclusive access to our app as soon as we launch it. We're here to answer your questions and point you in the right direction using everything we've learned passing the test ourselves and helping countless others to do so ever since.
 
 So sign up for our newsletter and we'll send you a first review chapter to get started.
 
