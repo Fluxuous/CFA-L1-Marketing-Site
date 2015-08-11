@@ -5,7 +5,7 @@ title : "Getting Started"
 excerpt : "It's hard to start studying for the CFA Level 1 exam. And it's hard to keep studying. Here's what it takes to start and build your momentum."
 --- 
 # The Hardest part of Level 1 is getting started
-One of the hardest things to do in the entire CFA process is to start studying for level one. There’s a lot of material to cover and life is busy. Where do you find the time? 
+One of the hardest things to do in the entire CFA process is to start studying for level one. There’s a lot of material to cover and life is busy. 
 
 So, despite our best intentions, it often happens that we find days slipping by without covering any material. *I’ll just read a little extra tomorrow you say to yourself.* And it is true, a few days here and there is OK (in fact, we've long advocated planned zero days). 
 
