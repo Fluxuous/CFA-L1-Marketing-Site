@@ -36,7 +36,7 @@ The CFA curriculum will teach you something new. Its community is powerful, its 
 ### We will help you walk the path
 We know the pain of passing these tests. We’ve been where you are.  We are here to help. 
 
-Your first step with us should be to register for our newsletter from our [home page](http://cfaexamlevel1.com/newsletter/). It’s completely free.
+Your first step with us should be to register for our [newsletter](http://cfaexamlevel1.com/newsletter/). It’s completely free.
 
 And just like we did with level 3, we’ll use our newsletter to release  hundreds of pages of our Level 1 notes to you for free as well as sharing tips, tricks, additional study resources, walk throughs of difficult problems, and much more.
 
