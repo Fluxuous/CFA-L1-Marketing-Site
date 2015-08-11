@@ -12,13 +12,15 @@ So, despite our best intentions, it often happens that we find days slipping by 
 ## Zero Days Compound
 But putting together multiple zero days has a compounding effect.  
 
+
 1. You get used to not working or covering material. 
 2. When you do study you try to cram lots of material at once (which is sub-optimal for retention)
 3. Perhaps even worse, you start feeling a nervous tension that builds up because you know you're not doing what you need to prepare. 
 
 The end result is that you're not studying and you're also not enjoying your free time because you feel like you should be. The CFA study process is hard enough without becoming your own worst enemy.
-### The CFA Is a Grind
-Passing Level 1 (and then 2 and 3) involves a long road. Little habits really do add up. And while everyone will find their own groove, we've been around the block (both ourselves and with hundreds of other Candidates) and we've distilled out a few lessons from that. 
+
+### The CFA Is a Grind 
+Passing Level 1 (and then 2 and 3) depends on grinding the material over time. Little habits really do add up. And while everyone will find their own groove, we've been around the block (both ourselves and with hundreds of other Candidates) and we've distilled out a few lessons from that. 
 
 #### Know the basic outline of the material and the ways it is interlinked
 
