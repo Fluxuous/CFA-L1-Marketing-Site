@@ -45,18 +45,18 @@ Who cares if you've memorized every detail. There's no grade here. You need to s
 
 While Level 1 is often considered the easiest of the CFA exams it comes with an extra wrinkle. Everything is new. 
 
-You haven’t learned the style of the material and the way it is presented. You haven’t done enough practice problems yet to know how this material can be tested. You don't know exactly what it takes to pass yet.
+You haven’t learned the style of the material and the way it is presented. You haven’t done enough practice problems yet to know how this material can be tested. You don't know exactly what it takes to pass.
 
 But that’s OK. You’ll adapt. We’ll provide you a framework for all of it. Before too long you’ll see that the material has a certain cadence to it. It gets easier the more you do it.
 
-Marginal, or incremental, improvement can really add up. Your job is to find the right routine (which is partly why we built our app-to help Candidates cover the material in small bite size portions).
+Trust us when we say that incremental marginal improvements can really add up. Your job is to find the right routine.
  
  
 #### Figure out how to Hack the Test
 
 As you study you'll get more comfortable with the various topics, your areas of strength and weakness, and the variations of how problems can get tested and how the test takers might try to trick you. 
 
-That entire process takes time and effort. We like to think that we can help you hack that process by pointing out areas of emphasis, ways problems have been asked in the past, and the key tricks and tips that will help save you hours and hours of time. 
+That entire process takes time and effort. We like to think that we can help you hack that process by pointing out areas of emphasis, the ways problems have been asked in the past, and the key tricks and tips that will help save you hours and hours of time. Then we encode that knowledge in a variety of study tools.
  
  
 #### One way to get started is with our free newsletter
