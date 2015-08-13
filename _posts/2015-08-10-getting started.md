@@ -31,7 +31,7 @@ Before you dive into the weeds you need the thousand foot view. You need to have
 * What areas are more conceptual and which are calculation heavy? 
 * What percentage of the exam points are assigned to each topic?  
 
-Knowing how topics relate to one another helps you chunk material and streamlines your memorization (and it's one of the specialties of our notes). Knowing the topic weights lets you spend your time on the highest leverage topics. That way if you are weak on an area that might only show up in 1-2 questions you can skip it, whereas, if you are weak on heavy value sections like fixed income which constitutes you know you need to drill that area repeatedly. 
+Knowing how topics relate to one another helps you chunk material and streamlines your memorization (and it's one of the specialties of our notes). Knowing the topic weights lets you spend your time on the highest leverage topics. That way if you are weak on an area that might only show up in 1-2 questions you can skip it, but if you struggle with fixed income you know you need to drill problems in that area repeatedly. 
 
 
 #### Understand the perspective of the test makers 
