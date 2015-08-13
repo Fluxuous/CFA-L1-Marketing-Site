@@ -27,9 +27,9 @@ Passing Level 1 (and then 2 and 3) depends on grinding the material over time. L
 
 Before you dive into the weeds you need the thousand foot view. You need to have a general idea of the topics you're going to be expected to learn. 
 
-*How do various topics link together and build on one another? 
-*What areas are more conceptual and which are calculation heavy? 
-*What percentage of the exam points are assigned to each topic?  
+* How do various topics link together and build on one another? 
+* What areas are more conceptual and which are calculation heavy? 
+* What percentage of the exam points are assigned to each topic?  
 
 Knowing how topics relate to one another helps you chunk material and streamlines your memorization (and it's one of the specialties of our notes). Knowing the topic weights lets you spend your time on the highest leverage topics. That way if you are weak on an area that might only show up in 1-2 questions you can skip it, whereas, if you are weak on heavy value sections like fixed income which constitutes you know you need to drill that area repeatedly. 
 
