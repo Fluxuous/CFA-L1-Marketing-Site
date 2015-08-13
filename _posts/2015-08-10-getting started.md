@@ -56,12 +56,16 @@ Trust us when we say that incremental marginal improvements can really add up. Y
 
 As you study you'll get more comfortable with the various topics, your areas of strength and weakness, and the variations of how problems can get tested and how the test takers might try to trick you. 
 
-That entire process takes time and effort. We like to think that we can help you hack that process by pointing out areas of emphasis, the ways problems have been asked in the past, and the key tricks and tips that will help save you hours and hours of time. Then we encode that knowledge in a variety of study tools.
+That entire process takes time and effort. We like to think that we can help you hack that process by pointing out areas of emphasis, the ways problems have been asked in the past, and the key tricks and tips that will help save you hours and hours of time. 
+
+Then we encode that knowledge in a variety of study tools--notes, a study app, and our newsletter.
  
  
 #### One way to get started is with our free newsletter
 
-We're here to help. That's why we have a free CFA newsletter. That's why if you [sign up](http://cfaexamlevel1.com/newsletter/) for it you'll get **access to hundreds of pages of our study material** for free and exclusive access to our app as soon as we launch it. We're here to answer your questions and point you in the right direction using everything we've learned passing the test ourselves and helping countless others to do so ever since.
+We're here to help and we're dedicated to that task. That's why we have a free CFA newsletter that we stuff with everything we know about how to hack the test.
+
+If you [sign up](http://cfaexamlevel1.com/newsletter/) for it you'll get **access to hundreds of pages of our study material** for free and exclusive access to the beta of our app. We're here to answer your questions and point you in the right direction using everything we've learned passing the test ourselves and helping countless others to do so ever since.
 
 So sign up for our newsletter and we'll send you a first review chapter to get started.
 
