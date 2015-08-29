@@ -54,5 +54,5 @@ This is the largest section of L1 and it's also one of the most challenging for 
 
 #### What's next
 
-From this high level overview of the topic weighting and the rationale behind it's worth getting the full picture of the exam format if you're not already familiar.
+From this high level overview of it's worth reading about the exam format itself (if you're not already familiar).
 
