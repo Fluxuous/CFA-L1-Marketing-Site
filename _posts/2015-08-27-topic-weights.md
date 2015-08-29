@@ -6,10 +6,7 @@ excerpt : <p>A review of L1 topic weights and an explanation of its differences 
 --- 
 # CFA Level 1 Topic Weights Explained for 2015/2016 
 
-We could just have easily called this post "How the CFA L1 fits into the overall CFA Curriculum."
-
-That's because the first part of devising an effective study plan is understanding what you're expected to know. Makes sense right?
-
+We could just have easily called this post "How the CFA L1 fits into the overall CFA Curriculum."That's because the first part of devising an effective study plan is understanding what you're expected to know. Makes sense right?
 ## Level 1 Topic Weights
 The exam is broken down into ten different subject areas that cover the basic areas of investment valuation and portfolio management a financial professional is expected to know. 
 
