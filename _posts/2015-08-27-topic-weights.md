@@ -7,6 +7,7 @@ excerpt : <p>A review of L1 topic weights and an explanation of its differences 
 # CFA Level 1 Topic Weights Explained for 2015/2016 
 
 We could just have easily called this post "How the CFA L1 fits into the overall CFA Curriculum."That's because the first part of devising an effective study plan is understanding what you're expected to know. Makes sense right?
+
 ## Level 1 Topic Weights
 The exam is broken down into ten different subject areas that cover the basic areas of investment valuation and portfolio management a financial professional is expected to know. 
 
@@ -34,7 +35,6 @@ As you can see from the different weights across the different exams, each one t
 **It's no surprise then that Level 1 is a broad introduction to a lot of this material.** You'll need a grasp of the different asset classes and you'll be introduced to different tools and equations to examine each. But you won't go as deep as L2 and you don't need to put concepts together as readily as in L3. 
 
 ### Breaking down L1's Key Sections 
-
 **A significant portion of the exam drills into the basic building blocks and tools you need for everything else to make sense.**Without getting to exhaustive about each section, let's go a little deeper on a few of the key areas you need to master.
 
 Ethics is one of these blocks. 
@@ -50,6 +50,5 @@ You need a strong grounding in probability and statistics (including regression 
 This is the largest section of L1 and it's also one of the most challenging for most Candidates. Its worth nailing not just for the points on L1 but also because its a huge component of L2. Financial reporting has a real mix of both conceptual material and calcuation and ratio heavy material that makes it a lengthy section for which there is no alternative but to grind. 
 
 #### What's next
-
 From this high level overview of the topic weighting and the rationale behind it's worth getting the full picture of the exam format if you're not already familiar.
 
