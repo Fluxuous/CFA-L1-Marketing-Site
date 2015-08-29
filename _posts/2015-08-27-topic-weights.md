@@ -13,7 +13,8 @@ The exam is broken down into ten different subject areas that cover the basic ar
 ![CFA Exam Level 1 Topic weights](/static/img/Topic-areas.png)
 
 Broadly speaking, these ten categories fall into four sub-categories: 
-<br> 
+
+
 1. Ethics / professional standards
 2. Investment tools - Basic framework (quant/econ/international trade/currency)
 3. Coverage of individual asset classes
