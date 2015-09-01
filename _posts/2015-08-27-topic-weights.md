@@ -42,17 +42,17 @@ As you can see from the different weights across the different exams, each one t
 
 Ethics is one of these fundamental blocks. 
 
-It is a HUGE component of L1. Yet despite the 15% weighting, many Candidates understimate the section. That is because despite an apparent simplicity Ethics questions take a lot of getting used to. You'll have approximately 36 problems dealing with Ethics. Do plenty of practice with actual problems here. Not convinced yet? *In the event you are on the border of pass and fail, your score in Ethics is  used to determine if you should move to Level 2.*
+It is a HUGE component of L1. Yet despite the 15% weighting, many Candidates understimate the section. You see, Ethics questions appear deceptively simple when they actually take a lot of getting used to. You'll have approximately 36 problems dealing with Ethics. Do plenty of practice problems. Not convinced yet? **In the event you are on the border of pass and fail, your score in Ethics is  used to determine if you should move to Level 2.**
 
 *Quantitative Methods and Economics are also heavily stressed in L1.* 
 
-You need a strong grounding in probability and statistics (including regression analysis) in the quantative methods section. Economics can also be quite challenging if you don't have an academic background in it.
+You need a strong grounding in probability and statistics (including regression analysis) to score well in the quantative methods section. Economics can also be quite challenging if you don't have an academic background in it. This section is often really tedious. It has de-railed many good intentions. If you need to, skim this during your first pass.
 
 *Financial Reporting and Analysis* 
 
-This is the largest section of L1 and it's also one of the most challenging for most Candidates. Its worth nailing not just for the points on L1 but also because its a huge component of L2. Financial reporting has a real mix of both conceptual material and calcuation and ratio heavy material that makes it a lengthy section for which there is no alternative but to grind. 
+This is the largest section of L1 and it's also one of the most challenging for most Candidates. Not only that, everything you learn here is vital to getting through L2 as well. Note that Financial reporting has a real mix of both conceptual material and calcuation and ratio heavy material that makes it a lengthy section. There's no alternative but to grind through this material. 
 
 #### What's next
 
-From this high level overview of it's worth reading about the exam format itself (if you're not already familiar).
+From this high level overview of it's worth reading about the exam format itself (if you're not already familiar). We'll post about that next week.
 
