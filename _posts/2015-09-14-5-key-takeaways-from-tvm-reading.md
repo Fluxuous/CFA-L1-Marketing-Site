@@ -1,7 +1,7 @@
 ---
 layout: post
 category : tips
-title : "The 5 Most Important Takeaways from the Time Value of Money CFA Level 1 Reading"
+title : "The 5 Most Important Takeaways from the Time Value of Money Reading"
 excerpt : <p>The most important points from the first reading in Quantitative Methods distilled into five keys.</p>
 --- 
 
