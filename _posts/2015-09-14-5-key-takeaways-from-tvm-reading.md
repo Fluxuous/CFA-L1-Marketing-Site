@@ -30,7 +30,7 @@ The concept of present value and future value is essential. You won't get far in
 
 The equation you'll need to memorize for the rest of your CFA life that models this relationship is ...
 
-*If you don't know the equation go read [this article](https://www.mathsisfun.com/money/compound-interest.html) 
+*If you don't know the equation go read [this article](https://www.mathsisfun.com/money/compound-interest.html)* 
 
 ### (4) Indexing different cash flows to one point in time
 
