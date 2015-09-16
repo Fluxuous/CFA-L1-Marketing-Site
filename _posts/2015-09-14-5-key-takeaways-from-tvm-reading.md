@@ -22,13 +22,17 @@ Know and be able to explain that the interest rate can be interpreted as (a) the
 
 The interest rate consists of several different risk factors (premiums) that we add up to find the overall interest rate. We usually break these different factors into the (a) risk free rate, (b) inflation, and (c) various other premiums that can include things like illiquidity and security specific factors. 
 
+![Components of an interest rate for CFA Level 1](/static/img/Interest-rate-components.png)
+
 Those different risk premiums explain why the expected rate of return (*you remember that's one way to interpret the interest rate right!?*) varies for different asset classes. Finally, while it's only hinted at in this reading, you will eventually also need a good understanding of the difference between the nominal and real interest rates.
 
 ### (3) Compound interest rates and how they link Present Value, and Future Value
 
 The concept of present value and future value is essential. You won't get far in the CFA curriculum (or in finance) without understanding that money today is more valuable than money in the future. How much more valuable is determined by the compound interest rate and the amount of time between now and then. 
 
-The equation you'll need to memorize for the rest of your CFA life that models this relationship is ...
+The equation you'll need to memorize for the rest of your CFA life that models this relationship is:
+
+![Future Value, Present Value, and Compound Interest Rates](/static/img/FV-and-PV.png)
 
 *If you don't know the equation go read [this article](https://www.mathsisfun.com/money/compound-interest.html)* 
 
