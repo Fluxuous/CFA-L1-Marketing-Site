@@ -52,7 +52,7 @@ But when facing mutually exclusive projects, or projects with non-conventional c
 ## Calculating TWRR, and comparing it against MWRR 
 When the timing the timing of cash flows is different, MWRR and TWRR can give different returns.
 
-                                                              Summarizing TWRR and MWRR                                                                                                              |                                                                                        |
+Summarizing TWRR and MWRR    |                                                                                                                                                                        |                                                                                        |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |                                 |    TWRR                                                                                                                                                                |    MWRR                                                                                |
 |    Calculation                  |           Each CF-free sub-period   is chained together                                                                                                                |           Solve using your financial calculator                                        |
