@@ -23,7 +23,7 @@ __Solving NPV on your financial calculator__
 
 To calculate NPV on your financial calculator you need to use the cash flow (CF) function.  Every time you do this on the exam make sure to clear all previous cash flows work by pressing ([CF][2nd][CLR WORK]. **One big key to passing is not to lose points on problems you know the answer to!!**
 
-Now that you're ready, start by enterubg all of the sequential cash flows.
+Now that you're ready, start by entering all of the sequential cash flows.
 
 	* CF0 is in the initial outlay and will be a negative number for a corporate finance project
 	* CF1 is the first period’s cash flow and so on and so forth. Remember to use net cash flows.
