@@ -68,5 +68,6 @@ Be able to convert from one to the other and also know which yields the highest 
 * The EAY is the annualized HPY which uses a 365 day/year (sometimes 360) and accounts for compounding. To get EAY from the total holding perior return: EAY = (HPY)^(1/n)
 * The BEY determines annualizes the yield of an investment that does not make annual payments. This allows investors to compare fixed-income securities whose payments are not annual or are selling at a discount to those with annual yields.
 * The BDY is the annualized yield based on simple interest and 360 days/year.
-*
+
+
 __Now Go Practice!__
