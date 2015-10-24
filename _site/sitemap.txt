@@ -1,9 +1,14 @@
 
+http://username.github.io/2015-08-10-getting%20started.html
 http://username.github.io/atom.xml
 http://username.github.io/blog/index.html
 http://username.github.io/newsletter/index.html
 http://username.github.io/rss.xml
 http://username.github.io/sitemap.txt
 
+http://username.github.io/blog/how-dcf-shows-up-on-l1
+http://username.github.io/blog/three-month-schedule-to-pass-l1
+http://username.github.io/blog/5-key-takeaways-from-tvm-reading
+http://username.github.io/blog/topic-weights
+http://username.github.io/blog/getting%20started
 http://username.github.io/blog/there-are-no-shortcuts
-http://username.github.io/blog/read-me
